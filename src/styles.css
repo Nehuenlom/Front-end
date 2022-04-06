@@ -62,3 +62,35 @@ h3 {
   color: royalblue;
   font-style: initial;
 }
+
+.contenedor {
+  background-color: blueviolet;
+  border: 2px solid black;
+  margin: 5px 900px 50px 2px;
+  height: auto;
+  width: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: 0;
+  padding: 25px 2px 2px 2px;
+}
+.Productos {
+  background-color: darkred;
+  width: 80px;
+  height: 50px;
+}
+.Nombre {
+  background-color: chocolate;
+  width: 200px;
+  border: 2px solid black;
+}
+.Precio {
+  background-color: coral;
+  width: 50px;
+  border: 2px solid black;
+}
+.Stock {
+  background-color: darkgreen;
+  width: 90px;
+  border: 2px solid black;
+}
